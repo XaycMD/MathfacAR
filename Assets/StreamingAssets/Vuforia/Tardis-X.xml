@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ARMap_Navigation_3" size="1.000000 1.000000" />
+    <ImageTarget name="ARMap_Navigation_2" size="1.000000 1.000000" />
+    <ImageTarget name="ARMap_Navigation_1" size="1.000000 1.000000" />
+    <ImageTarget name="target_ssfsq" size="1.000000 1.000000" />
+    <ImageTarget name="Marker3" size="0.500000 0.500000" />
+    <ImageTarget name="Marker2" size="0.500000 0.500000" />
+    <ImageTarget name="Marker1" size="0.500000 0.683288" />
+  </Tracking>
+</QCARConfig>
