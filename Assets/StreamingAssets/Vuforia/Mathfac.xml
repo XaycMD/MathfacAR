@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="plan" size="1.000000 1.333333" />
+    <ImageTarget name="ic_diff" size="1.000000 1.000000" />
+    <ImageTarget name="ic_math" size="1.000000 1.000000" />
+    <ImageTarget name="mathfac" size="1.000000 1.000000" />
+    <ImageTarget name="ic_algebra" size="1.000000 1.000000" />
+    <ImageTarget name="ic_sysan" size="1.000000 1.000000" />
+    <ImageTarget name="ic_deans_office" size="1.000000 1.000000" />
+    <ImageTarget name="ic_cybernetics" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
